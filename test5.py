@@ -12,7 +12,7 @@ VIDEO_PATHS = [
     r"test/2.mp4",
     r"test/5.mp4"
 ]
-MODEL_PATH = "checkpoints/checkpoint_best_ema.pth"
+MODEL_PATH = "model.pth"
 CONF_THRESH = 0.50
 CLASS_NAMES = ["emr", "emr", "nem", "emr"]
 
